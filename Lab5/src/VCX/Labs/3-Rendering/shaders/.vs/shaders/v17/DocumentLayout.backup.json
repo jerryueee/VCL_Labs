@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:phong.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadow.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:phong-shadow.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadow.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:phong-shadow.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadowcubemap.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:phong-shadowcubemap.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\npr.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:npr.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "phong.frag",
+              "DocumentMoniker": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong.frag",
+              "RelativeDocumentMoniker": "phong.frag",
+              "ToolTip": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong.frag",
+              "RelativeToolTip": "phong.frag",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvzkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-29T07:56:10.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "phong-shadow.vert",
+              "DocumentMoniker": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadow.vert",
+              "RelativeDocumentMoniker": "phong-shadow.vert",
+              "ToolTip": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadow.vert",
+              "RelativeToolTip": "phong-shadow.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-29T07:34:06.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "phong-shadow.frag",
+              "DocumentMoniker": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadow.frag",
+              "RelativeDocumentMoniker": "phong-shadow.frag",
+              "ToolTip": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadow.frag",
+              "RelativeToolTip": "phong-shadow.frag",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-29T07:16:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "phong-shadowcubemap.frag",
+              "DocumentMoniker": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadowcubemap.frag",
+              "RelativeDocumentMoniker": "phong-shadowcubemap.frag",
+              "ToolTip": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\phong-shadowcubemap.frag",
+              "RelativeToolTip": "phong-shadowcubemap.frag",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-29T07:16:11.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "npr.frag",
+              "DocumentMoniker": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\npr.frag",
+              "RelativeDocumentMoniker": "npr.frag",
+              "ToolTip": "D:\\vcx2024\\src\\VCX\\Labs\\3-Rendering\\shaders\\npr.frag",
+              "RelativeToolTip": "npr.frag",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-29T06:58:01.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
